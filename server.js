@@ -1,4 +1,4 @@
-import express 'express'
+import express from 'express'
 import htttp from 'htttp'
 import socketio from 'socket.io'
 import createGame from './public/game.js'
