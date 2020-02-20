@@ -1,6 +1,9 @@
 {
   "name": "multiplayer-game",
   "version": "1.0.0",
+  "engines": {
+    "node": "13.8.0",
+  },
   "description": "",
   "main": "server.js",
   "type": "module",
