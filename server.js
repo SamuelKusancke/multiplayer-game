@@ -1,8 +1,8 @@
-const express =  require('express')
-const htttp = require('htttp')
-const socketio = require('socket.io')
-const createGame =  require('./public/game.js')
-const cors = require('cors')
+import express 'express'
+import htttp from 'htttp'
+import socketio from 'socket.io'
+import createGame from './public/game.js'
+import cors from 'cors'
 
 const app = express()
 const server = http.createServer(app)
