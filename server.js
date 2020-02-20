@@ -1,5 +1,5 @@
 import express from 'express'
-import htttp from 'htttp'
+import http from 'http'
 import socketio from 'socket.io'
 import createGame from './public/game.js'
 import cors from 'cors'
